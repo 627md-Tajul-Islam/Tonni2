@@ -1,6 +1,6 @@
 body {
   font-family: 'Poppins', sans-serif;
-
+  scroll-behavior: smooth;
   color: #48494a;
   background-image: url(../images/body-bg.jpg);
 }
@@ -369,6 +369,7 @@ a:focus {
   left: 50%;
   transform: translateX(-50%);
   display: flex;
+  margin-bottom: 100px;
 }
 
 
